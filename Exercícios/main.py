@@ -1,3 +1,3 @@
-import datetime
-a = datetime.datetime.now().year
-print(a)
+import math
+
+print(math.factorial(2))
